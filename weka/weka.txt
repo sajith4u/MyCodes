@@ -1,0 +1,50 @@
+@relation orchid
+
+@attribute meanH numeric
+@attribute meanS numeric
+@attribute hwratio numeric
+@attribute orchidType {orchid1,orchid2,orchid3,orchid4,orchid5,orchid6}
+
+@data
+85.2,85,3.25,orchid2
+80,90,3.25,orchid4
+83,86,3.25,orchid5
+70,96,3.25,orchid5
+68,80,3.25,orchid5
+65,70,3.25,orchid1
+64,65,3.25,orchid6
+72,95,3.25,orchid6
+69,70,3.25,orchid6
+75,80,3.25,orchid3
+75,70,3.25,orchid3
+72,90,3.25,orchid3
+81,75,3.25,orchid3
+71,91,3.25,orchid3
+85,85,3.25,orchid2
+80,90,3.25,orchid4
+83,86,3.25,orchid5
+70,96,3.25,orchid5
+68,80,3.25,orchid5
+65,70,3.25,orchid1
+64,65,3.25,orchid6
+72,95,3.25,orchid6
+69,70,3.25,orchid6
+75,80,3.25,orchid3
+75,70,3.25,orchid3
+72,90,3.25,orchid3
+81,75,3.25,orchid3
+71,91,3.25,orchid3
+85,85,3.25,orchid2
+80,90,3.25,orchid4
+83,86,3.25,orchid5
+70,96,3.25,orchid5
+68,80,3.25,orchid5
+65,70,3.25,orchid1
+64,65,3.25,orchid6
+72,95,3.25,orchid6
+69,70,3.25,orchid6
+75,80,3.25,orchid3
+75,70,3.25,orchid3
+72,90,3.25,orchid3
+81,75,3.25,orchid3
+71,91,3.25,orchid3
